@@ -1,2 +1,2 @@
-# srijanabaidhya.github.io
+# stardietician-collab.github.io
 Clinical Dietitian Website
